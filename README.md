@@ -1,4 +1,4 @@
-# reactor parser
+# abbreviations
 
 Fast typing with abbreviations c:
 
