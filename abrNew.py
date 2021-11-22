@@ -17,7 +17,7 @@ class Writer():
             self.fileOpen()
         except FileNotFoundError:
             print(f"Файл {abbrevFile} не найден.")
-            self.createFile()
+            self.createAbrFile()
             self.fileOpen()
         self.keyListen()
 
