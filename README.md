@@ -2,6 +2,11 @@
 
 Fast typing with abbreviations c:
 
+# changelog v 1.0.1
+
+Now you don't need write an "!", just use "Tab".
+Now you can write auto dot, just use two spaces.
+
 ## Requirements
 
 ```
