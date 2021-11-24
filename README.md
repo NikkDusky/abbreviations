@@ -2,10 +2,10 @@
 
 Fast typing with abbreviations c:
 
-## changelog v 1.0.1
+## changelog v 1.0.2
 
-Now you don't need write an "!", just use "Tab".\
-Now you can write auto dot, just use two spaces.
+Now script logging some errors in debug.log
+Now script configurable with abrSettings.ini
 
 ### Requirements
 
