@@ -4,7 +4,7 @@ Fast typing with abbreviations c:
 
 ## changelog v 1.0.2
 
-Now script logging some errors in debug.log
+Now script logging some errors in debug.log\
 Now script configurable with abrSettings.ini
 
 ### Requirements
